@@ -1,1 +1,2 @@
-Clock
+# Clock
+Shows real time.
